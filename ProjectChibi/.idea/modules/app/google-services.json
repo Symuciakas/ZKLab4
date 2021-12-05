@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "138532520842",
+    "project_id": "projectchibi-1607124923522",
+    "storage_bucket": "projectchibi-1607124923522.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138532520842:android:172b6a21e8a0fc00f23e73",
+        "android_client_info": {
+          "package_name": "com.example.projectchibi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138532520842-thl3mq4hrico5i5jbfod9cmip6oqoq6q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projectchibi",
+            "certificate_hash": "be591981b66e04f990aedcaa5633a65015da108f"
+          }
+        },
+        {
+          "client_id": "138532520842-9203vud22heh26lu17sect9sl1bjjtl3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2QfHh0YdwzqQjkBukhw2p8R2AWJH8sJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138532520842-9203vud22heh26lu17sect9sl1bjjtl3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
