@@ -5,9 +5,9 @@
         android:title="Add information"/>
     <item
         android:id="@+id/exerciseSettingsItem2"
-        android:title="View statistics"/>
+        android:title="Athlete mode"/>
     <item
         android:id="@+id/exerciseSettingsItem3"
-        android:title="Placeholder"/>
+        android:title="Children mode"/>
 
 </menu>

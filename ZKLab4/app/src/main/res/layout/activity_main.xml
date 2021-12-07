@@ -39,7 +39,7 @@
             android:id="@+id/signInTextView"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="SignIn"
+            android:text="Sign In"
             android:textSize="30sp"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />

@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidStudioProjects/ZKLab4/ZKLab4/app/src/main/res/layout/activity_athlete.xml" value="0.18177083333333333" />
+        <entry key="..\:/AndroidStudioProjects/ZKLab4/ZKLab4/app/src/main/res/layout/activity_children.xml" value="0.18177083333333333" />
+        <entry key="..\:/AndroidStudioProjects/ZKLab4/ZKLab4/app/src/main/res/layout/activity_exercise.xml" value="0.18177083333333333" />
+        <entry key="..\:/AndroidStudioProjects/ZKLab4/ZKLab4/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/ZKLab4/ZKLab4/app/src/main/res/menu/exercise_popup_menu.xml" value="0.328125" />
         <entry key="..\:/AndroidStudioProjects/ZKLab4/ZKLab4_2/app/src/main/res/drawable-v24/circle.xml" value="0.21851851851851853" />
         <entry key="..\:/AndroidStudioProjects/ZKLab4/ZKLab4_2/app/src/main/res/drawable/circular_progress_bar.xml" value="0.18541666666666667" />
         <entry key="..\:/AndroidStudioProjects/ZKLab4/ZKLab4_2/app/src/main/res/drawable/circular_progress_bar_children_mode.xml" value="0.24114583333333334" />
